@@ -116,4 +116,3 @@ Optional parameters
 
 ## Steps
 (1) [Create API Key](https://platform.openai.com/api-keys)
-> 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
