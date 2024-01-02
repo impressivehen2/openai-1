@@ -1,4 +1,4 @@
-# ChatGPT - Spring [INCOMPLETE]
+# ChatGPT - Spring [INCOMPLETE - NOT TESTED API KEY]
 #### Last Update - 01/01/2024
 ## Links
 (a) [Tutorial](https://levelup.gitconnected.com/chatgtp-integration-with-spring-boot-application-280637e69e73)
